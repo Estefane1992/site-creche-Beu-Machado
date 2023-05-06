@@ -1,0 +1,14 @@
+.footer {
+    overflow: hidden;
+    position: sticky;
+    background-color:#C9E9F1;
+   
+}
+p {
+    text-align: center;
+    color: #2F3136;
+    font-weight: 600;
+    font-size: 1em;
+    padding-top: 15px;
+   
+}

@@ -1,0 +1,12 @@
+@import '~aos/dist/aos.css';
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #c9e9f186;
+    height: 100vh;
+    
+}
+
